@@ -9,4 +9,4 @@ Full stack developer student at Zone01 Rouen, passionate about web development, 
 ## 📈 GitHub Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anasskm&show_icons=true&theme=neon&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasskm&layout=compact&theme=neon) [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=neon)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasskm&layout=compact&theme=neon) [![GitHub Streak](https://streak-stats.demolab.com/?user=Anasskm&theme=neon)](https://git.io/streak-stats)
