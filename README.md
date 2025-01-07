@@ -1,9 +1,16 @@
- <h1 padding="10px 5px" > Hi There, I’m Anass <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> </h1> 
+<h1 padding="10px 5px" > Hi There, I’m Anass <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> </h1> 
 
 
 ## 👨‍💻 About Me :
 
-Full stack developer student at Zone01 Rouen, passionate about web development, data science, and DevOps. I enjoy creating dynamic and responsive web applications, analyzing data to uncover insights, and exploring the latest tools and practices in DevOps.
+Hi there! I'm a Full-Stack Developer Student currently honing my skills at Zone01 Rouen. I'm passionate about:
+
+* 🌟 Artificial Intelligence: Exploring the intersection of AI and real-world applications.
+* 📊 Data Science: Turning raw data into actionable insights.
+* 💻 Web Development: Building user-friendly, scalable, and dynamic web applications.
+ 
+I'm constantly learning, experimenting, and collaborating on projects that challenge me to grow. Feel free to check out my repositories, and let's connect if you're interested in building something amazing together! 🚀
+
 
 ---
 
@@ -20,6 +27,7 @@ Full stack developer student at Zone01 Rouen, passionate about web development, 
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
+	<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" title="Python"/>
 </div>
 
 
